@@ -1,5 +1,5 @@
 // comentario para github
-#include "CodCliente.cpp"
+#include "cliente.cpp"
 #include <iostream>
 using namespace std;
 main(){
